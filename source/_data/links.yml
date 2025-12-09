@@ -1,25 +1,25 @@
 - links_category: This is the first categrory
   has_thumbnail: true
   list:
-      - name: Jack's Blog
-        link: https://example.com
-        description: I will refresh my article every day.
+      - name: 向光者读报频道
+        link: https://newspaper.im-zu.cn
+        description: 每日读报，天天进步
         avatar: /images/avatar-0.jpg
         thumbnail: /images/desc-image.jpg # has_thumbnail 为 true 时才需要
  
 - links_category: This is the second categrory
   has_thumbnail: false
   list:
-      - name: Partner Link 1
-        link: https://example.com
-        description: Example Site Imformation
+      - name: 向光者主站
+        link: https://www.im-zu.cn
+        description: 综合学习平台
         avatar: /images/avatar-1.jpg
-      - name: Partner Link 2
-        link: https://example.com
-        description: Example Site Description
+      - name: 向光者终身学习平台
+        link: https://college.im-zu.cn
+        description: 终身学习的学校
         avatar: /images/avatar-2.png
-      - name: Partner Link 3
-        link: https://example.com
-        description: Example Site Description
+      - name: 向光者学习频道
+        link: https://dyjy.im-zu.cn
+        description: 深入学习习近平新时代中国特色社会主义思想
         avatar: /images/avatar-3.png
  
